@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-di-theater#entrance3"
+                 "value":".\/db-boardbistro-theater#entrance3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-di-theater#entrance2"
+                 "value":".\/db-boardbistro-theater#entrance2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-di-theater#entrance1"
+                 "value":".\/db-boardbistro-theater#entrance1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -161,7 +161,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beachclub-meeting1"
+                 "value":"boardbistro-meeting1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -189,7 +189,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beachclub-meeting2"
+                 "value":"boardbistro-meeting2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -217,7 +217,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beachclub-meeting3"
+                 "value":"boardbistro-meeting3"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -245,7 +245,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beachclub-meeting4"
+                 "value":"boardbistro-meeting4"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
