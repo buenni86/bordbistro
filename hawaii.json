@@ -174,7 +174,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-boardbistro-beachclub"
+                 "value":".\/db-bordbistro-beachclub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,7 +192,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-boardbistro-maze"
+                 "value":".\/db-bordbistro-maze"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -210,7 +210,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-boardbistro-maze#top"
+                 "value":".\/db-bordbistro-maze#top"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -233,7 +233,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"boardbistro-workshop1"
+                 "value":"bordbistro-workshop1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -261,7 +261,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"boardbistro-workshop2"
+                 "value":"bordbistro-workshop2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -289,7 +289,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"boardbistro-workshop3"
+                 "value":"bordbistro-workshop3"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -317,7 +317,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"boardbistro-workshop4"
+                 "value":"bordbistro-workshop4"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -345,7 +345,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"boardbistro-workshop5"
+                 "value":"bordbistro-workshop5"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -373,7 +373,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"boardbistro-beach-1"
+                 "value":"bordbistro-beach-1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -401,7 +401,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"boardbistro-beach-2"
+                 "value":"bordbistro-beach-2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1504,7 +1504,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB Boardbistro Hawaii"
+         "value":"DB Bordbistro Hawaii"
         }, 
         {
          "name":"mapImage",
@@ -1514,7 +1514,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB-Boardbistro-Hawaii"
+         "value":"DB-Bordbistro-Hawaii"
         }, 
         {
          "name":"script",

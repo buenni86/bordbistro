@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-boardbistro-maze#stairs"
+                 "value":".\/db-bordbistro-maze#stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-boardbistro-maze#top-stairs"
+                 "value":".\/db-bordbistro-maze#top-stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-boardbistro-hawaii#start_vulcano"
+                 "value":".\/db-bordbistro-hawaii#start_vulcano"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -222,7 +222,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-boardbistro-hawaii#start_top-vulcano"
+                 "value":".\/db-bordbistro-hawaii#start_top-vulcano"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB Boardbistro Maze"
+         "value":"DB Bordbistro Maze"
         }, 
         {
          "name":"mapImage",
@@ -311,7 +311,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB-Boardbistro-Maze"
+         "value":"DB-Bordbistro-Maze"
         }, 
         {
          "name":"script",
