@@ -692,7 +692,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"skript-beach.js"
+         "value":"..\/src\/skript-beach.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.2",
@@ -701,7 +701,7 @@
         {
          "columns":9,
          "firstgid":1,
-         "image":"src\/Tilesets\/Tiles.png",
+         "image":"..\/tilesets\/Tiles.png",
          "imageheight":544,
          "imagewidth":288,
          "margin":0,
@@ -724,7 +724,7 @@
         {
          "columns":8,
          "firstgid":154,
-         "image":"src\/Tilesets\/fantasy.png",
+         "image":"..\/tilesets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -737,7 +737,7 @@
         {
          "columns":31,
          "firstgid":1218,
-         "image":"src\/Tilesets\/bars.png",
+         "image":"..\/tilesets\/bars.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -750,7 +750,7 @@
         {
          "columns":32,
          "firstgid":2179,
-         "image":"src\/Tilesets\/LPC-submissions-outside.png",
+         "image":"..\/tilesets\/LPC-submissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -763,7 +763,7 @@
         {
          "columns":32,
          "firstgid":3203,
-         "image":"src\/Tilesets\/LPC-terrains-subimissions-outside.png",
+         "image":"..\/tilesets\/LPC-terrains-subimissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -776,7 +776,7 @@
         {
          "columns":20,
          "firstgid":4227,
-         "image":"src\/Tilesets\/beach_stuff.png",
+         "image":"..\/tilesets\/beach_stuff.png",
          "imageheight":768,
          "imagewidth":640,
          "margin":0,
@@ -789,7 +789,7 @@
         {
          "columns":16,
          "firstgid":4707,
-         "image":"src\/Tilesets\/house_inside.png",
+         "image":"..\/tilesets\/house_inside.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -802,7 +802,7 @@
         {
          "columns":20,
          "firstgid":4931,
-         "image":"src\/Tilesets\/tiki_bar_stuff.png",
+         "image":"..\/tilesets\/tiki_bar_stuff.png",
          "imageheight":768,
          "imagewidth":640,
          "margin":0,
@@ -815,7 +815,7 @@
         {
          "columns":31,
          "firstgid":5411,
-         "image":"src\/Tilesets\/db_interior.png",
+         "image":"..\/tilesets\/db_interior.png",
          "imageheight":992,
          "imagewidth":992,
          "margin":0,
@@ -828,7 +828,7 @@
         {
          "columns":16,
          "firstgid":6372,
-         "image":"src\/Tilesets\/upholstery.png",
+         "image":"..\/tilesets\/upholstery.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -841,7 +841,7 @@
         {
          "columns":8,
          "firstgid":6884,
-         "image":"src\/Tilesets\/floortileset.png",
+         "image":"..\/tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,

@@ -1,4 +1,7 @@
-import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
+//import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
+import { bootstrapExtra } from "@workadventure/scripting-api-extra";
+
+bootstrapExtra();
 
 var currentPopup = undefined;
 var isCoWebSiteOpened =  false;
@@ -61,7 +64,7 @@ WA.room.onLeaveZone(zoneFeedback, () =>{
 })
 
 WA.room.onEnterZone(zoneMusik, () => {
-   currentPopup =  WA.ui.openPopup("popUpMusik","Ein wenig Musik?!",[
+   currentPopup =  WA.ui.openPopup("popUpMusik","Etwas Musik?!",[
         {
             label: "Her damit!",
 			callback: (popup => {
