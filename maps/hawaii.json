@@ -1509,7 +1509,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"maps\/hawaii.png"
+         "value":"hawaii.png"
         }, 
         {
          "name":"mapName",
