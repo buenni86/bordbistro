@@ -306,7 +306,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"maze.png"
+         "value":"maps\/maze.png"
         }, 
         {
          "name":"mapName",
